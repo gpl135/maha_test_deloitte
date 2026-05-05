@@ -12,3 +12,6 @@
     
 def test_basic_response():
     assert True
+
+def test_functionality():
+    assert True
